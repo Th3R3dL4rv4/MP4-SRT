@@ -22,3 +22,11 @@ pip install imageio[ffmpeg]
 ```
 
 If you encounter any issues with specific versions or dependencies, you might need to check the documentation for each package or adjust the versions accordingly.
+
+### Run the Streamlit app:
+
+```bash
+streamlit run app.py
+```
+
+This will launch a local Streamlit web interface where you can upload MP4 files and download the converted MP3s.
